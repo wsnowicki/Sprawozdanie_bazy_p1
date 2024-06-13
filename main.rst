@@ -3,14 +3,17 @@ Temat 3: Kontrola i Konserwacja
 ===============================
 
 Konserwacja bazy danych
+-------------------------------
 
 Regularne utrzymywanie bazy danych w optymalnym stanie ma kluczowe znaczenie dla jej wydajności. Zapewnienie regularnej konserwacji jest niezbędne do utrzymania systemu na najwyższym poziomie działania. Zaleca się wprowadzenie harmonogramu konserwacji, który obejmie przynajmniej tygodniowe interwały.
 
 Kontrola danych
+-------------------------------
 
 Kontrola danych to proces systematycznego zbierania, monitorowania i analizowania informacji w celu uzyskania wglądu, podejmowania świadomych decyzji oraz realizacji określonych celów. Obejmuje to stałe śledzenie i rejestrację istotnych punktów danych związanych z różnymi aspektami działalności firmy lub systemu, takimi jak zachowanie klientów, wskaźniki operacyjne czy trendy rynkowe. Surowe dane są przetwarzane w istotne spostrzeżenia, które mają wpływ na podejmowanie strategicznych decyzji oraz doskonalenie procesów.
 
 Znaczenie kontroli danych
+-------------------------------
 
 Nie można przecenić znaczenia kontroli danych w dzisiejszym środowisku biznesowym. W miarę jak firmy operują w coraz bardziej złożonym i konkurencyjnym otoczeniu, wykorzystanie danych poprzez systematyczne monitorowanie przynosi liczne korzyści. Oto kilka kluczowych powodów, dla których zarządzanie danymi jest tak istotne:
 
@@ -18,8 +21,10 @@ Nie można przecenić znaczenia kontroli danych w dzisiejszym środowisku biznes
 - Pomaga w ocenie wydajności.
 - Stanowi fundament ciągłego doskonalenia dzięki analizie danych.
 - Poprawia zrozumienie i postrzeganie klientów.
-----------------------------------
+
+
 Planowanie skutecznej kontroli danych
+-------------------------------
 
 1. **Określenie celów kontroli danych:**
    Dokładne określenie celów zbierania danych, czyli jasne zdefiniowanie, co chcemy osiągnąć poprzez analizę gromadzonych informacji. Cele powinny być zgodne z celami biznesowymi i strategicznymi organizacji.
@@ -67,5 +72,6 @@ Planowanie skutecznej kontroli danych
 
 Autorzy
 -----------------
+
 Michał Pawlica
 Wiktor Nowicki
