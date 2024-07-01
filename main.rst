@@ -75,5 +75,5 @@ Regularnie przeprowadzaj audyty, aby upewnić się, że procesy kontroli danych 
 Autorzy
 -----------------
 
-Michał Pawlica
-Wiktor Nowicki
+- Michał Pawlica
+- Wiktor Nowicki
